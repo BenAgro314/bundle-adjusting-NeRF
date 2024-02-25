@@ -5,9 +5,6 @@ termcolor
 easydict
 imageio
 ipdb
-pytorch
-torchvision
-tensorboard
 visdom
 matplotlib
 scikit-video
